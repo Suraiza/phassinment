@@ -1,0 +1,107 @@
+.header-banner {
+    background-image: url(images/banner/banner3.png);
+    height: 600px;
+    text-align: right;
+}
+
+.banner-title {
+    color: #FFFFFF;
+    padding: 50px 900px;
+    width: 200px;
+    text-align: right;
+}
+
+.banner-content {
+    color: #FFFFFF;
+    padding: 10px 700px;
+    width: 400px;
+    text-align: right;
+}
+
+.primary-btn {
+    color: #0f73c5;
+    padding: 10px 50px;
+    margin-right: 230px;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+}
+/* main */
+.main{
+    display: flex;
+    margin: 100px;
+}
+.main-content{
+    margin: 250px 100px;
+}
+.contet-title{
+    font-size: 30px;
+}
+/* plan */
+.plan {
+    text-align: center;
+}
+.plan-item{
+    display: flex;
+    text-align: center;
+    width: 50px 500px;
+}
+.plan-content{
+    margin: 20px 100px;
+}
+.plan-title{
+    font-size: 20px;
+}
+.last{
+    background-image: url(images/gradient1.png), url(images/watch.png);
+    background-repeat: no-repeat;
+    margin: 50px 100px;
+    background-size: 1100px;
+    height: 200px;
+}
+.last-content{
+    
+}
+.last-title{
+   padding: 10px 60px;
+   color: #FFFFFF;
+   font-size: 50px;
+}
+.last-btn{
+    padding: 0 60px;
+}
+/* footer */
+.footer{
+    display: flex;
+    background-color: #161515;
+    padding: 100px 100px;
+}
+.footer-content{
+    color: #FFFFFF;
+}
+.subscribe{
+    color: #FFFFFF;
+}
+.footer-text{
+    margin-top: 20px;
+    margin-right: 300px;
+}
+.email{
+    width: 300px;
+    text-align: left;
+    font-size: 20px;
+    color: #FFFFFF;
+    background-color: #161515;
+    padding-bottom: 15px;
+    border-radius: 7px;
+    border-color: #FFFFFF;
+}
+.btn{
+    margin-top: 20px;
+}
+.subscribe-btn{
+    color: #FFFFFF;
+    padding: 10px 50px;
+    margin-right: 230px;
+    border-radius: 8px;
+    background-color: #0f73c5;
+}
